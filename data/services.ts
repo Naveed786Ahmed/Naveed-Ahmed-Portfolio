@@ -1,0 +1,6 @@
+export type Service = {number:string; title:string; problem:string; solution:string; tools:string[]; projectId:string; icon:'workflow'|'support'|'rag'|'leads'};
+export const services:Service[] = [
+{number:'01',title:'AI Workflow Automation',problem:'Repetitive tasks and disconnected tools slow down operations.',solution:'Intelligent workflows that connect applications, APIs, databases and AI models.',tools:['n8n','Webhooks','OpenAI','APIs'],projectId:'p-hr',icon:'workflow'},
+{number:'02',title:'AI-Powered Customer Support',problem:'Busy inboxes and repeated questions take time away from customers.',solution:'Classify requests, retrieve relevant knowledge and escalate complex cases to people.',tools:['Gmail API','Pinecone','n8n'],projectId:'p-email',icon:'support'},
+{number:'03',title:'RAG Knowledge Assistants',problem:'Important answers are buried in internal documents.',solution:'Document-grounded assistants that retrieve answers with traceable source references.',tools:['Python','FastAPI','ChromaDB'],projectId:'p-rag',icon:'rag'},
+{number:'04',title:'Lead Qualification & CRM',problem:'Sales teams waste time on unqualified leads and manual CRM updates.',solution:'Conversational qualification and rule-based routing to the right sales pipeline.',tools:['OpenAI','n8n','CRM APIs'],projectId:'p-lead',icon:'leads'}];
