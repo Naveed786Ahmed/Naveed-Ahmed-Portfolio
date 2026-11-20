@@ -1,4 +1,4 @@
-# Naveed Ahmed — AI Engineering Portfolio
+# Naveed Ahmed - AI Engineering Portfolio
 
 My personal portfolio showcasing the AI systems and automation workflows I've built, with a focus on Generative AI, Retrieval-Augmented Generation (RAG), and practical business automation.
 
@@ -10,10 +10,10 @@ I built this website to bring my projects, technical work, and experience togeth
 
 The portfolio includes:
 
-- **Enterprise RAG Knowledge Assistant** — Document-grounded AI with semantic search and source citations.
-- **HR Onboarding Automation** — AI-assisted candidate processing, document workflows, and approvals.
-- **AI Customer Support Email Gateway** — Email classification, knowledge-based responses, and human escalation.
-- **B2B Lead Qualification Agent** — Conversational lead screening and CRM automation.
+- **Enterprise RAG Knowledge Assistant**: Document-grounded AI with semantic search and source citations.
+- **HR Onboarding Automation**: AI-assisted candidate processing, document workflows, and approvals.
+- **AI Customer Support Email Gateway**: Email classification, knowledge-based responses, and human escalation.
+- **B2B Lead Qualification Agent**: Conversational lead screening and CRM automation.
 
 ## Built With
 
